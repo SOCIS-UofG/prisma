@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "prisma": "npx prisma db push && npx prisma generate"
+  },
   "devDependencies": {
     "prisma": "^5.10.2"
   },
